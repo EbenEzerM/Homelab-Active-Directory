@@ -98,7 +98,7 @@ Unduh dan install Windows 10/11 dari: https://www.microsoft.com/software-downloa
 2. Pilih:  
    - Active Directory Domain Services  
    - DNS Server  
-3. Klik **Install**.
+3. Ikuti intruksi, lalu klik **Install**.
 
 <p align="center">
   <img src="image/install-ad-ds.png" width="75%">
